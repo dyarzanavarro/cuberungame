@@ -1,0 +1,14 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Codename",
+"dataUrl": "CubeRun.data.unityweb",
+"wasmCodeUrl": "CubeRun.wasm.code.unityweb",
+"wasmFrameworkUrl": "CubeRun.wasm.framework.unityweb",
+"wasmSymbolsUrl": "CubeRun.wasm.symbols.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#808080",
+"cacheControl": {"default": "must-revalidate"}
+}
